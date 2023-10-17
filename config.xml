@@ -78,3 +78,4 @@
 	<package name="nmap.vm"/>						 					   
         <package name="yara.vm"/>
     </packages>
+</config>
